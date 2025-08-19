@@ -48,17 +48,23 @@ System Design
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jahnavi-vemagal-shivakumar-470054247/)
-- Email: [your-email@example.com] <!-- Replace with your email if you wish -->
-- Portfolio: [Add your portfolio link here]
+- Email: [jahnavivs25@gmail.com] <!-- Replace with your email if you wish -->
 
 ---
 
 ## 🏆 Featured Projects
 
-<!-- Add your top projects below! -->
-- **Smart ML Pipeline** – End-to-end ML workflow with CI/CD, containerization, and cloud deployment
-- **AI-Powered Search Engine** – NLP and vector search with FAISS, BM25, and RAG
-- **Full-Stack Dashboard** – React.js, Spring Boot, PostgreSQL, Dockerized & CI integrated
+Crop Yield Prediction Using Machine Learning-
+➢Developed a machine learning-based crop yield prediction system, analyzing 10+ years of agricultural
+data,improving accuracy by 25%.
+➢Built a real-time web platform to assist farmers with data-driven crop selection, increasing productivity by
+15-20%.
+
+LLM-Powered Cold Email Generator-
+➢Built a Generative AI-based tool using Llama3.1, ChromaDB (vector database), LangChain, and Streamlit
+to generate personalized cold emails for AI and software services companies.
+➢Implemented RAG-based architecture for optimized email generation.
+Enabled 3x faster email campaign generation for early users.
 
 ---
 
