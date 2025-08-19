@@ -48,7 +48,7 @@ System Design
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jahnavi-vemagal-shivakumar-470054247/)
-- Email: [jahnavivs25@gmail.com] <!-- Replace with your email if you wish -->
+- Email: jahnavivs25@gmail.com <!-- Replace with your email if you wish -->
 
 ---
 
